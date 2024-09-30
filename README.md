@@ -1,0 +1,1 @@
+# genshin-viewpoints-trivia
