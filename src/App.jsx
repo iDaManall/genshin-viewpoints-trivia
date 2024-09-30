@@ -26,7 +26,7 @@ const App = () => {
     <div className="App">
       <div className= "header">
         <h2>Genshin Viewpoint Trivia</h2>
-        <h4>How well do you know the Genshin viewpoints? Test your knowledge and maybe visit some locations after!</h4>
+        <h4>How well do you know the Genshin viewpoint locations? Guess the Nation based on the description, viewpoint name, and image!</h4>
         <h5>Number of Cards: {cards.length}</h5>
       </div>
 

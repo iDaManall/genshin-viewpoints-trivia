@@ -2,26 +2,56 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const url = 'https://genshin-impact.fandom.com/wiki/Viewpoint/Gallery';
+const url = 'https://game8.co/games/Genshin-Impact/archives/311411#hl_2';
 
 axios.get(url, { responseType: 'text' })
   .then(response => {
     const $ = cheerio.load(response.data);
     const cards = [];
     
-    // Select images and their corresponding viewpoint names and regions
-    $('div.wikia-gallery-item').each((_, element) => {
-      let imgUrl = $(element).find('img.thumbimage').attr('data-src') || $(element).find('img.thumbimage').attr('src');
-      const viewpointName = $(element).find('div.lightbox-caption a').text().trim();
-      const regionName = $(element).closest('div.wikia-gallery').prevAll('h2').first().find('.mw-headline').text().trim();
+    // Iterate through each h3 header that matches the pattern "All (nation) Viewpoint Details"
+    $('h3.a-header--3').each((_, header) => {
+      const headerText = $(header).text().trim();
+      const match = headerText.match(/^All (.+) Viewpoint Details$/);
 
-      // Convert relative URL to absolute URL if necessary
-      if (imgUrl && !imgUrl.startsWith('http')) {
-        imgUrl = new URL(imgUrl, url).href;
-      }
+      if (match) {
+        const nation = match[1].trim();
+        console.log(`Nation: ${nation}`);
+        const table = $(header).next('table.a-table');
 
-      if (imgUrl !== undefined && viewpointName !== '' && regionName !== '') {
-        cards.push({ question: `Where is '${viewpointName}' located in?`, answer: regionName, image: imgUrl });
+        // Check if the table exists
+        if (!table.length) {
+          console.log(`No table found for nation: ${nation}`);
+          return;
+        }
+
+        // Iterate through each row in the table to get viewpoint details
+        table.find('tr').each((index, row) => {
+          if (index === 0) return; // Skip the header row
+
+          const viewpointName = $(row).find('td b.a-bold').text().trim();
+          const description = $(row).find('td:nth-child(2)').text().trim();
+          
+          // Debugging: Log the extracted viewpointName
+          console.log(`Extracted Viewpoint Name: ${viewpointName}`);
+
+          // Print the HTML structure of the entire row
+          const rowHtml = $(row).html();
+          console.log(`Row HTML: ${rowHtml}`);
+
+          // Extract the image URL from the data-image-url attribute
+          let imgUrl = $(row).find('td:nth-child(2) div.imageLink').attr('data-image-url');
+
+          console.log(`Viewpoint: ${viewpointName}, Description: ${description}, Image URL: ${imgUrl}`);
+
+          if (viewpointName && description && imgUrl) {
+            cards.push({
+              question: `Viewpoint: ${viewpointName}\nDescription: ${description}`,
+              answer: nation,
+              image: imgUrl
+            });
+          }
+        });
       }
     });
 
