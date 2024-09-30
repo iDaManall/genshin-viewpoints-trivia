@@ -1,0 +1,782 @@
+[
+  {
+    "question": "The City of Wind\nThe wind will carry dandelion seeds, songs, and stories far afield, and it also guides the gentle Traveler's to its realm. Welcome to Mondstadt",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632097/c0a061097ecbda277f5909d02d3f82f8.png/original"
+  },
+  {
+    "question": "The Marsh of Celestial Guardians\nA poem says that a star once fell to the earth, forming this lake. But others even say that even the stars that shine as bright as the Anemo Archon's eyes will fall into this lake.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632102/aabdcb119cccf18421f182fc680b2caa.png/original"
+  },
+  {
+    "question": "Windswept Wilderness\nThis plain bathes in an everlasting breeze. An ancient, monumental tree left behind by an ancient heroine speaks softly amidst the winds.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632096/6e018f0c44b545ca1266ef9824a12904.png/original"
+  },
+  {
+    "question": "Land of Clear Springs\nA peacefull and idyllic suburban town. It has a long history of hunting, of sweet springwater, and of passing down the legend of a beneficient spirit dwelling within the waters.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632105/9fb776404f03cb712544fa9003e5972e.png/original"
+  },
+  {
+    "question": "Manor of Daybreak\nFilled with the fragrance of grapes and wine, this is the estate of one of Mondstadt's distinguished houses. It has conquered drinkers the city over with its unmatched wines, and is in some ways the holy land to which all who love the bottle must make pilgrimage.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632104/21b694c4f5a0a56a79a1d7575a360047.png/original"
+  },
+  {
+    "question": "Favonius Cathedral\nA holy place managed by the devoted adherents of the Anemo Archon. It was once a palatial estate from which the aristocracy flaunted their authority.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632099/46b8033eb407b0e92c72e7fdc6cd6c5e.png/original"
+  },
+  {
+    "question": "Knights of Favonius - Library\nThe Library with the most  books in all the northern lands. Other than those collected in the restricted section, all the books here are open for public reading.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632098/e96eae0f5335dbcde22d455854eda728.png/original"
+  },
+  {
+    "question": "Ancient Thousand Winds Temple\nThe ruins of an ancient amphitheater. A thousand melodious wins gather here, bringing with them countless tales far and wide.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632100/e6c6fc313fd4bbbe3542cb9cbbd5f60a.png/original"
+  },
+  {
+    "question": "Forgotten Sword Cemetery\nHundreds of years have passed, and the world is once again at peace. This forest of blades stands as testament to the song of clashing swords, the battle-hymns of warriors, the thundering footfalls of monsters, and the crimson sky, as red as blood.",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632101/c91157bd3ce27a94a3fc565adb2ef6a1.png/original"
+  },
+  {
+    "question": "Abandoned Capital of Howling Winds\nThe one who once dwelt in that lonely tower is no more. the murmuring winds that shourd the desolate city tell of that most ancient of stories, which no mortal now remembers: they tell os their erstwhile master, the nameless wind sprite, and the chorus that caused the tower to quail...",
+    "answer": "Mondstadt",
+    "image": "https://img.game8.co/3632103/060aa891eeb9c49c16952c9f31ca71b9.png/original"
+  },
+  {
+    "question": "A Home in the Hills\nMighty Mt. Qingce gently cradles this peaceful village, silently protecting the old, the young, and the abundant croplands within its embrace. The legen of the ancient threat subdued beneath the mountain has been consigned to legend along with those who know of it, never again to return.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632148/8c14bd8b0d07f255d9193618c21e0387.png/original"
+  },
+  {
+    "question": "Marsh of Rustling Reeds\nThe is where the sifting of the wavy silvergrass and the croaking of frogs join in song, and it is also the final resting place of many a martial nomad.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632158/7e327de9e57e20af877c157f205d39e3.png/original"
+  },
+  {
+    "question": "Vigilant Guardian's Vantage Point\nThe inn that stands at the southern end of Dihua Marsh seems to serve as something other than a resting place for guests. They say that Wangshu Inn is a haven for lovers' moonlit rendezvous. Folk stories also have it that even ones as august as adepti sometimes bask in the moonlight here.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632152/4e58a4bcaf179b0da87a161da95011f7.png/original"
+  },
+  {
+    "question": "Moonlit Tree\nA strange tree whose branches flow with clear, cold moonlight. Perhaps its roots, that reach deep into the heart of the earth, are connected to something that awaits an opportunity to once again emerge and bask in the moon's light.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632149/9200a3891e1a81d489dd24c65e9bd778.png/original"
+  },
+  {
+    "question": "Mist-Veiled Stone Forest\nThese stone spires poke out of the clouds like great pavilions. Though this place is forbidden to mortal steps, such as beauteous sight is bound to attract the eyes of those who yearn for the sky, and for those who dwell in adepti realms.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632150/bfec80cad0b71129340aaf89a4e1d48f.png/original"
+  },
+  {
+    "question": "Where Mountains Peak Beyond the Clouds\nThey say that the adepti dwell somewhere within these countless towering, cloud-ringed peaks. Few mortals may set foot here.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632151/51a6f57b7c4626fe75071bf26c50a737.png/original"
+  },
+  {
+    "question": "Nine Pillars of Peace\nNine shackles of stone were said to have been laid down deep in the valleys of Cuijue Slope to drive off evil and cleanse the world.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3631516/11e537b5a00f5a27bb54973f7fdcdf0a.png/original"
+  },
+  {
+    "question": "Weeping Garden\nLegends has it that a deep, pure affection filled this ancient garden, creating the Luhua Pool as it is known today.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632145/c6ddf16e3fac1bb89591da5669636afb.png/original"
+  },
+  {
+    "question": "Ruins of Guili\nOnce, this was thriving city where a certain flower bloomed in abundance. But all dreams must turn to waking. This earthly paradise was consumed by war, and those who gathered here were once again scattered.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632155/a9e99bf4c45b8c2db21288d45857e701.png/original"
+  },
+  {
+    "question": "A Drop in the Ocean\nThe roud, lonely stone mountains here are said to have been the place where Rex Lapis subdued a great sea monster. They say that those sensitive of heart can sometimes hear a strange, stirring rhythm emanating from deep within that oceanic abyss.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632146/99d343222c9d8a958967e60ae8897545.png/original"
+  },
+  {
+    "question": "Where Merchants Flock and All Ships Dock\nA prosperous port city where a thousand ships drop anchor. Under the aegis of countless contracts and regulations, unnimerable goods change hands and grace the seven nations with their presence. Welcome to Liyue, wayfaring Traveler.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632160/5ebea5647c48f0722884588f6e54e80b.png/original"
+  },
+  {
+    "question": "Yujing Terrace\nFar from the bustling harbor, the Yujing Terrace rises along with Mt. Tianheng. Here the Qixing and the leaders of many enterprises tirelessly drive Liyue's prosperity and stability/",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632159/6d43b4e687be7e7d9a9bbbaea855f3df.png/original"
+  },
+  {
+    "question": "Feiyun Slope\nHere live those merchants who have made it. Here, the residens are prosperous and carefree. there, the lights are bright and never go out.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632147/7d747771835147be79d4ec4ccf68a4af.png/original"
+  },
+  {
+    "question": "Chihu Rock\nThe ever-pulsating hear of Liyue Harbor that pumps lifeblood into its veins. The lively city scene here is the source of Liyue Harbor's limitless vitality.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632156/286c651fcc4a43dc489d2abe2136a5b4.png/original"
+  },
+  {
+    "question": "Dunyu Ruins\nThe Land of Hidden Jade. But the war of ages past is long over, and the mounds  of glittering jade have long been destroyed. Now, only the whisper of flowing water remains.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632154/df8306d16f0b344d322334b2e206a3b4.png/original"
+  },
+  {
+    "question": "Beyond the Chasm\nThe junction between Liyue Harbor and the great mines ofthe Chasm. Work has ceased here as of late due a shift within the Chasm.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632153/2ea98f9188c8631543048307ad4efc49.png/original"
+  },
+  {
+    "question": "Qingxu's Forsaken Tower\nA ruined tower amid a verdant field. It still stands, defending a bygone age long returned to dust.",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632157/daa871f6b6fb5147a169c8f1a2b766ed.png/original"
+  },
+  {
+    "question": "View from The Chasm's Surface\nWhen I first came here, the miraculous, terrifying geography silenced me... I have never forgotten the sense of utter awe and respect that I felt. But even such wondrous visions became monotonous after too much hustle and bustle on behalf of the Ministry of Civil Affairs... Speaking of which, I must thank the Traveler for helping me continue with my own adventure...",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632174/1b5063f5f014d942914bec91630eb5bc.png/original"
+  },
+  {
+    "question": "Mouth of the Great Mine\nThe entrance to The Chasm's mines, known to the miners as 'The Chasm's Maw.' Since the latest earthquake, the tunnels, which were already sealed by the Qixing, have been even more treacherous and inscrutable than ever... But with the Traveler's help, the array sealing the opening has been broken. Let's just hope that the Qixing don't come down too hard on us...",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632175/0bc2b74e911042c4ba0f4f4647bba570.png/original"
+  },
+  {
+    "question": "The Ancient Battlefield of Fuao Vale\nThis is the site of the deadly battle between Azhdaha and Rex Lapis. I'm just a young and inexperienced adventurer, and writing is not my forte... But I cannot help but stand in awe of this place. How small we mortals are before time, which respects neither night nor day, or gods, who can shake heaven and earth...",
+    "answer": "Liyue",
+    "image": "https://img.game8.co/3632170/d701481a25aa77aa103d06d41f550f22.png/original"
+  },
+  {
+    "question": "The Underground Mines\nI once grew up at the mines of Mingyun Village. The miners' rowdy labor, their joys and sorrows... Those encompassed my entire childhood. Looking upon these underground tunnels, far more vast yet silent and deserted, these memories of yesteryear resurface in my mind... albeit sadder and more lonesome.",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3639494/6960bff907c10e007f4276d6de4114b1.png/original"
+  },
+  {
+    "question": "The Blocked Path\nThe miners sealed the tunnels that led further within when they dispersed, but they did leave one 'Mountainator' here. Perhaps it was the orders of the higher-ups... It's not as if it would be practical to seperate Liyue's mercantile pursuits from Glazed Sand Crystal for too long.",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3639496/fcb560fbdaa193af01e4aa8688268bf2.png/original"
+  },
+  {
+    "question": "Underground Waterway\nAs I was exploring by myself, I discovered this waterway. The waters here are clean and cool, perfect for taking a break and wash all the ill-fortune accumulated on the way off. There are some gentle elemental creatures nearby who move most slowly, rare beings who have no quarrel with the rest of the word... I drew the waterway on the map. I hope the Traveler can follow it and find this place.",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3632172/5da45d398879686bdb00dceba64275a2.png/original"
+  },
+  {
+    "question": "The Inverted City\nAs I was traveling alone, I discovered this vast and terrible ruin. Perhaps this all the remains of an ancient civilization that was punished and destroyed. This ancient city seems to resist the presence of any outsiders... It might even have something todo with those purple-black crystals, or that mud-like substance. I stayed for a time, but I had to leave its ominous, upended silhouette behind.",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3632171/3f9d67d333af6092ed74133498724739.png/original"
+  },
+  {
+    "question": "Crystal Fragment\nThe crystal that was once here was the very same 'culprit' that cause the closure of the Chasm back then. Its strange movements have again caused the Ministry of Civil Affairs much distress. Fortunately, the Traveler was on hand to return it to a place deeper below, leaving us with nothing but this empty, grim hall of stone.",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3632173/24e6d2d5a4edc6ea139c534ecef4416c.png/original"
+  },
+  {
+    "question": "The Great Mushroom's Place\nAn underground cavern where a strange, gigantic mushroom grows. I could've sworn that I heard something strange calling to me. Perhaps it is just an illusion - or a hallucination, in which case this place must be full of poisonous gas, and I must leave as soon as possible.",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3632169/6e551636fe137759bcd427e1e057cb8d.png/original"
+  },
+  {
+    "question": "The Court of Pillars\nDespite the Traveler's warnings, I still followed in (his/her) footsteps to arrive at this place. I can barely comprehend the sight of this huge sky-blue crystal pillar before me. It cannot be from this continent — only the heavens, with which it shares its shade, could have been its home. I have decided to explore deeper within through secret paths to uncover its secrets... I wonder how far I can press on, and what further records I shall leave behind...",
+    "answer": "Chasm",
+    "image": "https://img.game8.co/3639308/7c052ec11898096c8a214b0e9935f4f5.png/original"
+  },
+  {
+    "question": "Ritou, Narukami Island\nLegend has it that hundred of years ago, Lord Hiiragi Hiroshi of the Kanjou Commission miraculously built a prosperous trade center from a deserted island, and greatly impressed the Shogun. In the days when the Sakoku Decree was in force, the headquarters of the Kanjou Commission still flourished. However, the merchants from faraway nations languished, and the streets were no longer the bustling appearance of a century ago. Perhaps this is the best reflection of the business of mortals: those who become successful overnight will also lose everything in a day.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3631515/b6a2c5cb9461e70eeee1419beca1808b.png/original"
+  },
+  {
+    "question": "Grand Narukami Shrine, Mt. Yougou\nThe Grand Narukami Shrine is located at the peak of Mt. Yougou and is the largest shrine in Inazuma, guarding the Sacred Sakura. It provides much-needed comfort and peace to the people of Inazuma in these unsettling times.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3639466/15d5696319bd33f189e30d1314a2738d.png/original"
+  },
+  {
+    "question": "The Sacred Forest in the Moonlight\nLegend has it that in the past, this sacred forest was once home to many demons. To this day, the legend of the \"tanuki-bayashi\" still surrounds this tranquil woodland.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632349/18d4b56e8b06d74d9fb24906c698d6db.png/original"
+  },
+  {
+    "question": "Suburbs, Inazuma City\nThe outskirts of Inazuma City exude a time-worn and leisurely atmosphere as you make your way up the old paths. It seems that the prosperity of the city has not influenced the scenery here. The power and grace of the Shogun can also be observed here, bringing a quiet and different kind of vitality.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3639458/97560a2568340caffa0a23174fb5d178.png/original"
+  },
+  {
+    "question": "Tenryou, Inazuma City\nThe many streets and lanes of Tenryou intersect and cross paths, and finally gather in front of the Tenshukaku -  the undisputed center of power in Inazuma. Under the eternal and silent gaze of Her Highness, the Ogosho Shogun, the people living in the hustle and bustle of the city will finally be free from the worries of obsession, and move to a paradise where they no longer need to chase and compete for their aspirations - but what is the view of the eternal paradise that the Shogun sees?",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632355/8f65195437bf7000f9f7a41363706c81.png/original"
+  },
+  {
+    "question": "Front Line, Kannazuka\nLegend has it that during a disaster hundred of years ago, Shigeyori Kujou, a mortal general whom Her Highness valued greatly, built a battlefront fortress in just one night and fought valiantly against the forces of darkness, flying the banner of the Electro Mitsudomoe high. Hundreds of years later, the descendants of the Kujou family have also inherited outstanding military engineering skills.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632356/70aa572c384d1209bf23b3eb4c46166e.png/original"
+  },
+  {
+    "question": "Tatara Islands' Vantage Point\nThe ring of islands surrounded by jagged, rocky terrain is the perfect topographic barrier to the Shogunate's smelting facilities. The magnificent giant Blast Furnace here is used to produce a steady stream of high-quality Jade Steel for Inazuma. Recently, however, due to the war, the Mikage Furnace that drove the production has been damaged.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632353/98b7c57ced9291e766381730ba41536a.png/original"
+  },
+  {
+    "question": "Tidal Flat Amidst the Flames of War\nIn the ancient language of the Inazuma ancestors, ''Nazuchi'' means ''to be tenderly caressed by the hands of the gods.'' Ironically, Nazuchi Beach has been ravaged by war since a thousand years ago and has become a place for scavengers and pirates, with few inhabitants.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632352/c0ed55699bd468c96ee074b0d66ef183.png/original"
+  },
+  {
+    "question": "Rift Valley, Yashiori Island\nAccording to legend, the blow that brought an end to the serpent god was struck right here. Even to this day, the remnant reverbations of lightning continue to ring across this deep canyon in Yashiori Island, as if the spirits of thunder still chatter about the legendary scene that tore through the sky and the earth thousands of years ago...",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632354/d313544decc5ea6ba2b607fe39e60b5d.png/original"
+  },
+  {
+    "question": "Overlooking Serpent Head\nAccording to legend, the giant serpent that once ventured into the deep sea was finally slain on Yashiori Island. It is also said that when the sea breeze passes through the eyes and sharp fangs of the giant snake, sounds of a whistle will ring in the wind. That is the requiem it composed for itself. Now, this requiem also provides repose for those who have fallen or were displaced in the war.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632359/91121459df7044a23a381d066f2838a9.png/original"
+  },
+  {
+    "question": "The Moon-Bathed Deep\nThe entrance to Enkanomiya. The water in this pool shine year in and year out with light akin to that of the moon, hence the named ''Moon-Bathed.''",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632357/5c140c34c75f7588587595c71a10de12.png/original"
+  },
+  {
+    "question": "Village of the People of the Deep\nAn ancient village on Watatsumi Island. It is said that the ancestors of its people came from deep beneath the waves. It is also an important rallying point for those who are opposed to the Vision Hunt Decree.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632360/2ab36cca8713a5d0bcbb992a2e303c2b.png/original"
+  },
+  {
+    "question": "The Pearlescent Palace\nThis is the center of government and religion alike on Watatsumi Island. Shells and skerries flank the palace in which lie the relics of the serpent god.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632348/5313b8ae2a5a26700d3a8ec385f68886.png/original"
+  },
+  {
+    "question": "Where Swirling Stormclouds Gather\nThe great battle where the sea and sky changed color have become lost to time, but the vast storms that were called upon at this time still remain.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632350/763f1ff6e265d03ab5b969bae22cf0fa.png/original"
+  },
+  {
+    "question": "The Silent Fishing Village\nThe laughter of the old days and the cries of cicadas were at last lost to the thunder. The people of today only remember that this place was abandoned due to the furious, unchecked storms.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632358/d50b5238ff3e3ac2ca7f92f2e54094fe.png/original"
+  },
+  {
+    "question": "The Stranded Flagship\nThis rundown atakebune warship was mighty once upon a time. In its remains, marked by starlit tears, one can still vaguely see the image of a vessel proudly sailing, blessed by the shrine maidens and villagers of a bygone age.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3632351/18228de809361701292209a6a18fd025.png/original"
+  },
+  {
+    "question": "Where the Provisional Head Priestess Lives\nHibiki will return. The shrine looks wonderful now, thanks to you. She will return very soon.",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3639472/6bc92395ac0cecf6f09eded9ab189dfa.png/original"
+  },
+  {
+    "question": "Tsurumi Island\n'Pirka chikappo! Kapatcir kamuy!'' ''We slumber together in a spider-silk nest of fog.''",
+    "answer": "Inazuma",
+    "image": "https://img.game8.co/3639473/66aa51db1cdcabcc99eca0f7e62dd032.png/original"
+  },
+  {
+    "question": "The Land of Mawtiyima\nThis is where the memories and dreams of the forest gather. It seems to have its own consciousness.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639476/fa8af36592e1afe9db98ec4caa330beb.png/original"
+  },
+  {
+    "question": "Aranaga's Little Garden\nHere, the pomegranate sings and the apples clap.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639164/acf08bd65f6a8eaa4b1554b47c088023.png/original"
+  },
+  {
+    "question": "Memory of Alcazarzaray\nA purple garden lies before the palace in the depths of the woods. The flowers dance and the warblers sing — a more fitting scene for a lovely encounter one could not find.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639165/ae29e3aaaae1c335ecda341c2052fa28.png/original"
+  },
+  {
+    "question": "The City Where All Wisdom Resides\nThe root of all wisdom on earth. Under the luxuriant Divine Tree, the sages of the academy city have accumulated all the knowledge there is to be gathered. Welcome to Sumeru, O Traveler seeking answers.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639166/582d87fb4e54ff8c4cc7c94d3b3b38eb.png/original"
+  },
+  {
+    "question": "The City Above the Forest\nThe city of wisdom is ours, as is the forest of ignorance. Atop the tree lies the remnants of the kingdom of lost dreams.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639176/9b4c0f5fc0d71be6e3ecdb6550691305.png/original"
+  },
+  {
+    "question": "The Village by the River\nThere is nothing to Vimara Village apart from a tranquil life. Come, exhausted traveler, rest here awhile.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639177/df7c71beaa834b23a5e5d3bfcb9a7f37.png/original"
+  },
+  {
+    "question": "The Colossus Watching Devantaka\nBehold. Thousands of years of ancient Khaenri'ah history lie before us!",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639170/d754ca7e18ebb35bf695be4d64604c1b.png/original"
+  },
+  {
+    "question": "The Harbor Betwix the Two Trees\nBah! The lectures of the sages are beyond boring. Why don't we get ourselves some fine wine garnished with floral honey and set out on a journey across the seven seas?",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639172/7254a99515ebe0eec16b64a94d84bab7.png/original"
+  },
+  {
+    "question": "The Garden of Deep Thought\nCountless flowers lie within the garden, each more lovely than the most beautiful crystalfly. This is the paradise of people of goodwill.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639171/92bd57dd834df050b3687f9c8b33be3e.png/original"
+  },
+  {
+    "question": "The World of the Aranara\nNo matter how dark the sky and land may get, as long as your spirit emits warmth like a golden sun, there will always be hope.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639167/5098b8fbeea19b983866e2a8e6b71012.png/original"
+  },
+  {
+    "question": "Nursery of Lost Dreams\nFriends will stroll through the forest again. That which is good will return, and the painful memories will vanish. Just like a stream purifying itself or a withered tree sprouting once more.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639175/66e37374b7aa2b00a053d08ce6883543.png/original"
+  },
+  {
+    "question": "The Littlest Dream\nThey might have done so clumsily, but they made many preparations to welcome their Nara friend nonetheless.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639168/0534dd5bb1d05e2c635fc3e4815e519b.png/original"
+  },
+  {
+    "question": "The Garden's New Sprouts\nThe forest will remember.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639173/7b92fa73590fe3e86cb1b5eb710a8f15.png/original"
+  },
+  {
+    "question": "The Frontier Beneath the High Wall\nThe mighty wall defends against the searing sandstorms but has also blocked the spread of wisdom's blessing. Is divine wisdom not meant to shine on all people?",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639174/db82dcf6b7a6ef68eb325e0c8be18409.png/original"
+  },
+  {
+    "question": "Varunastra\nThe Varuna Contraption shows forth its power, bringing forth the water of life and turning Valuka into Vana, turning the barren lands into a land full of life.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639178/76142b06cb2ddc75c507cdd6b616d52f.png/original"
+  },
+  {
+    "question": "The Rain's End\nThere is no rain here, and yet it is the birthplace of rain. The purification of Vana rains begins ― and ends ― here.",
+    "answer": "Sumeru Rainforest",
+    "image": "https://img.game8.co/3639169/cd653eb8bafc9dd183da74900a6c98d0.png/original"
+  },
+  {
+    "question": "Refugee Shelters\nThe well-versed poets of Tulaytullah, ''the city of sapphire,'' Thamudian gladiators with golden eyes in Saleh, Jinn in Ay-Khanoum... Countless kingdoms that rose and fell after the great kingdom of King Deshret collapsed, together with their heroes and legends, were all immortalized in ancient nursery rhymes in this village, echoing around the children's beds... After all those years, the remnants of King Deshret have long muddled the boundaries between histories and myths, blending them all seamlessly into their memories...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639247/ca21199dd1df491e36bad7058e80270a.png/original"
+  },
+  {
+    "question": "Verdant Fields' Vantage Point\nFrom the barren desert, you can behold the forest realm of hidden wisdom, its verdant silhouette secure behind the mighty wall that blocks out the sandstorms, coldly looking down its nose at the desert realm swept by searing winds... Surely, the vassal lords whose fragmented kingdoms survived King Deshret's fall must also have looked upon that land of plenty with bitter jealousy...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639237/c8c7d258dd1c8dccb611e724cce26055.png/original"
+  },
+  {
+    "question": "The Barren Land Where Sand Dances\nOnce, a god resided to the west of the Wall of Samiel. Perhaps the desert was also a paradise for all living beings and a place where wisdom gathered at that time. It is indeed a shame that nothing but endless sandstorms and bleak ruins remain to be seen here today.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639238/cc732a6e3db686428ceeafd251dc4f2d.png/original"
+  },
+  {
+    "question": "Khaj-Nisut\nYon golden slumber summons thee, wandering sand. Drink not that bitter salt water, for the sorrows of tomorrow have gone away.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639249/9489699333eb5cbd162319602aff6cf0.png/original"
+  },
+  {
+    "question": "Lifeless Dar al-Shifa\nThe hospital, named after a prayer for patients, is now missing the busy figures of the doctors and the glad songs of those who have recovered, leaving naught but dilapidated remains.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639246/199500ccf4e3d3a0ae088613f68e1cbf.png/original"
+  },
+  {
+    "question": "Thamud Oasis\nThe golden-eyed Thamudians and the seven walls of their magnificent city-state rose up over the corpses of ancient kingdoms, and would itself be sucked down into the vortex of wars between nations and obliterated... The short-lived kingdom has been lost for a long time, but the oases are still like gems that adorn the sea of sand, accommodating caravans and wanderers with springs and plants alike.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639248/f6f29e0206c5661bb9162103325a95c2.png/original"
+  },
+  {
+    "question": "Towers of Betrayal\nThese huge obelisks have been standing here since the death of King Deshret. The desert dwellers call them the ''Towers of Betrayal'' and regard them as symbols of shame that serve as constant reminders of the fact that the desert kings had broken their oath with King Deshret... The obelisks' true history could date back to a period preceding that of those short-lived desert kingdoms, but it has unfortunately long been forgotten.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639236/b709d38a98bf5a0f35ae3378e6fb6241.png/original"
+  },
+  {
+    "question": "The Giant of the Wind-Eroded Valley\nThe giant lies silent in the valley, and the demonic swarms from the abyss now seem almost like poetic exaggerations. Only a power great enough to destroy mountains serves as the best proof that what the researchers say is nothing but the truth.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639245/6869bbbb3572847a29dced5491196f7e.png/original"
+  },
+  {
+    "question": "The Mausoleum of King Deshret\nThe huge cone is like a supporting pillar between the high sky and the yellow sands that has stood in the middle of the desert since time immemorial. Standing in front of it, be you a commoner, a wealthy man, or a well-informed researcher, you shall feel that you are but a few grains of sand all the same.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639243/076dd7709a95b8380360cd3528fec7c5.png/original"
+  },
+  {
+    "question": "Aaru's Shut\nThere are neither coveted treasures nor gem-laden chambers at the pinnacle of the Mausoleum of King Deshret — only the desolation and decay of the desert, and the shreds of a grand dream.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639240/e15bc6556d6ccd958136f5b66548c6e8.png/original"
+  },
+  {
+    "question": "The Thousands of Entombed Chambers\nIn dark places where the sands do not ravage, countless chambers and statues slumber, waiting for the time when their master shall visit them again...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639244/521ed2b0606322525ebbadb5d5719dc6.png/original"
+  },
+  {
+    "question": "The Bottomless Hall\nLegend has it that in the depths of the desert, an ancient god tried to recreate the underworld and the heavens, so that sinners would fall into the underworld and the ones favored by him would live in paradise.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3639239/846d9127651e78ee43a8f13600279eff.png/original"
+  },
+  {
+    "question": "Wenut Tunnels\nThe mortal palaces have long fallen, and the Wenut rule here now, transforming it into a court and garden more to their liking.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634179/312ee777e1cee53b538278ee1f83863e.png/original"
+  },
+  {
+    "question": "The Forgotten River Valley\nThis great river valley once irrigated Panjvahe. Here, the nobles of Gurabad once sailed in ornate boats, releasing their sleek hunting falcons...  But even those proud hawks would devolve into the wild red vultures of the desert.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634180/b19abd96cf2a993ee2cba988e375587c.png/original"
+  },
+  {
+    "question": "The Lost Hermitage\nIt is said that a friend of King Deshret once built their court in a great cavern beneath the dunes.  Wenut served here as court officials, and flying serpents as companions. But today, both creatures have lost their noble wit and vigor.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634181/d3f2c1acf6a4d57bfe620682d4425afd.png/original"
+  },
+  {
+    "question": "The Court of Dried Springs\nThe ancient people of Gurabad memorialized the years of the gardens with, song, and dance. But forgetting caused all joys to wither and crumble to dust...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634182/7e58667a2ae839423257b983e5f7ac6b.png/original"
+  },
+  {
+    "question": "The Paradise of Eternal Peace\n\"...Its leaves shall not be seized by autumn's arms, and the circles of time shall not avail to subject its newborn spring-joy to the curse of years...\"",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634183/4b003c98578a31996a37c8c8f923b73e.png/original"
+  },
+  {
+    "question": "Where a Titan's Shins Were Broken\nWounded Shin Valley has been its moniker for a long time, but now that an iron giant has lost its footing in this place, its name surely bears some extra weight now, no?",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634184/579e1278f729f0c0f5a040dbdf077755.png/original"
+  },
+  {
+    "question": "The Court of Withered Life\nThe ancient people of Gurabad once planted many-hued plants and succulent fungi along these halls and courts, but forgetting caused all life here to become barren...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634185/463fcf4b13c2476cd3385cbddf636ce2.png/original"
+  },
+  {
+    "question": "Ad-Hoc Headquarters of the Fatui Expeditionary Force\nA vanguard troop from the snowy land in the north has set up camp here amidst the whispers of ancient shrines.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634186/b9c9cebf7aa6756d46ccf7a2594cecde.png/original"
+  },
+  {
+    "question": "Remnants of the Ancient Orchard\nBefore it fell into the dark valley rift, the great gate of Gurabad was once a place where poetry and beauty gathered.  Only the cream of the crop had the privilege of standing here and beholding the noble mortal lord...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634187/9d0b9e3909d93457e759ed094ba9056a.png/original"
+  },
+  {
+    "question": "The Gap of the Hidden Ruins\nMighty Gurabad and the monumental buildings raised in its heyday could not, in the end, escape falling into the dark valley rift.  And as if their destruction was not humiliation enough, their mansions and estates would come to be nests for roving bandits...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634188/db88d914ea1e2b787fdbe1dbce2dff1b.png/original"
+  },
+  {
+    "question": "Liloupar's Gaol\nWhat sort of dire criminal did this prison that has now become an oasis once hold?  And what changes will her awakening bring to the lonesome desert tribes?",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634189/7010a9a6265996045c190503ef89a4d6.png/original"
+  },
+  {
+    "question": "Safhe Shatranj\nTo the desert tribes, this abandoned, ruined square goes by the name Safhe Shatranj. Researchers believe that this was once a training field for ancient war machines.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634190/aa4eba6a1901f3072bf89b3effbc7486.png/original"
+  },
+  {
+    "question": "The Palace Abandoned by the Gods\nThe ruins of the temple of Gurabad. The desert songs say that long-lived giants once dwelled here.  But they were cast down into a rift in the earth within a single night, never to be seen again... and so did the great temple also become some ruins in a valley rift.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634192/c9e27530c7b1793c9fa445829713014c.png/original"
+  },
+  {
+    "question": "Mt. Damavand, Where Sandstorms Never Cease\nAn unending sandstorm swirls at the heart of Mt. Damavand.  The desert people say that this sandstorm hides the location of the Eternal Oasis.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634193/bbdecb582dc9f8748368f1c687239484.png/original"
+  },
+  {
+    "question": "The Tanit Encampment\nPart of an ancient structure's ruins, once home to the ghosts of people of old...  Now, it is the home of a desert tribe known as the Tanit.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634194/26aba6159ef064e778e0f497b3fab3da.png/original"
+  },
+  {
+    "question": "The Temple of Buried Dominion\nThe ancient people of Gurabad used to worship their God King of the desert in these long halls and grand courts. But forgetting caused the gulf between the noble and the base to lose its meaning...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634195/0ea5c76043bbeffeeeaadf16b32f7897.png/original"
+  },
+  {
+    "question": "The Moon Blue Canals\nThe ancient tales of the desert people tell of this place being the site where three canals met, nourishing fertile fields and rich gardens.  But nothing remains now of those halcyon days, only the dulled shades of a dream...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3634196/5b07e36945b136abc6cc89b4a6dc5d0a.png/original"
+  },
+  {
+    "question": "Amrita Nourished Nest\nThe purest Amrita nourishes the homeland of the Pari, with only unbesmirched warriors allowed entry into these forbidden grounds. The countless scattered kindred of the Khvarena are fated to converge here in eventuality.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3677698/b39d42898d0e24488e5f8f313c3f8a8d.png/original"
+  },
+  {
+    "question": "Valley of the Unsullied\n\"...The filth pouring out from the abyss will eventually recede and the lost descendants of the Dahri will be shocked into uprightness. As a chorus of thousands sing their song, there will come a lull to the rains.\"",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3677736/069987b2a56e1570e82b49833848a652.png/original"
+  },
+  {
+    "question": "Gate of Everlasting Mourning\nA grand and majestic gate leading to a world beneath the soil. It is sealed tight as of the present, and the once prosperous kingdom that lay behind the door has also long since turned to rubble.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3677697/6cb70c26b09737e3ffa950f1d7a71b06.png/original"
+  },
+  {
+    "question": "Forged of the Abandoned Foundry\nIn the past, there were humans that yearned to use their own might to surpass the gods. This massive furnace stands as some manner of symbol relating to that desire. Although the ancient foundry has long been abandoned, the sparks within the forge yet flicker still.",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3677700/4a0405b85e5a1dff5b5a6ee3752fbaaa.png/original"
+  },
+  {
+    "question": "Harvisptokhm\n\"Praise be the Harvisptokhm, extinguisher of the flaming sign searing the sky, and caller of the timely rains that will cleanse the land of its filth. The days that bask in the Khvarena's resplendence are as dawn rising through the murky fog crowning the mountains.\"",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3677701/a1c70645d9b813ddeb269ac5998d6b36.png/original"
+  },
+  {
+    "question": "Elder Pine Atop the Wastes\nThe kind spirit residing within the towering Barsom has sheltered a great many warriors returning from their trials. But now none remember the details of that ancient compact...",
+    "answer": "Sumeru Desert",
+    "image": "https://img.game8.co/3677699/d51c78277c20c705328a3943883d99c0.png/original"
+  },
+  {
+    "question": "Scenery Within Elynas' Depths\nThe heart that was nearly awakened has now gone silent once more.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752744/f05fb116546477a02051ac99e15d1fdd.png/original"
+  },
+  {
+    "question": "Scenery Within Elynas' Deepest Depths\n\"Nice to meet you!\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752733/b5bb5e3748572b7cb294298f0cc374ab.png/original"
+  },
+  {
+    "question": "Foamy Home\nBeneath the verdant Beryl Mountains is the welcoming home of the Melusines. Little homes of fantastic and odd design are omnipresent, leaving a deep impression. Though, just who taught them these unique architectural styles?",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752736/afca3fe5b81b84fa20270b12371742ad.png/original"
+  },
+  {
+    "question": "Ancient Conch Melody of Yore\n\"Of the once-great empire of Remuria, today there remains but a lonely melody. Once heard by multitudes, but long lost to mortal ears...\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752743/6e4b519aef20c8bd153d3f1980298bca.png/original"
+  },
+  {
+    "question": "Where Dark Tides Echo\nWhere the Spina di Rosula was born. Just as a tiny chick that will one day become a soaring eagle is hatched from an egg, so are grand and radiant ambitions hatched in a dark and cramped place.The people of Poisson are like the residents of the Fleuve Cendre, and from the history of these places they understand that some things are worth being, and indeed must be, fought for and bought by blood.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752750/d9a8341f24d427cbfe3c50486a9d237c.png/original"
+  },
+  {
+    "question": "Sunken Glory\nThe once-prosperous avenues and alleys have now vanished into the depths along with all that was worthy of praise. Now, only schools of fish parade through the promenades, along with the lonely sound of the tides.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752745/e3bc68997f1ed6e5314aa7fe93426bd7.png/original"
+  },
+  {
+    "question": "Court of Dew and Springs\n\"This city alone stands above all waters.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752740/b4e7b0686c53ffd4212de4fcc503ed6f.png/original"
+  },
+  {
+    "question": "Land of Corroded Shadows and Tainted Currents\nA tainted shadow hidden beneath the clear waters of Fontaine, a place of rest for outcasts.\"Even the ashes and the dregs cast off by the sifting of the law all return to the same river.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752739/6f9affabf3776c830948ecca1916a8ef.png/original"
+  },
+  {
+    "question": "Seaworn Cavern\nA jawbone as massive as a mountain, that could seemingly drink in and spew forth the tides. It is difficult to imagine such a massive creature ever walking this world.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752746/e134e92cf5ce37c5a00d23f5c342435e.png/original"
+  },
+  {
+    "question": "Erinnyes' Whirling Dance\nIn this ancient ballad, the knight searching for water most pure encountered the spirit here, and they embarked upon a journey of redemption together. A thousand years pass like a dewy dawn, and whether laughter or tears, joy or sorrow, it all turns into a whirling illusory dance, disappearing into a sea of applause.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752734/4f605d123bf491cff0a2b27ad57da7cf.png/original"
+  },
+  {
+    "question": "Oratrice Mecanique d'Analyse Cardinale\n\"Before there was law, sins already ran rampant above the waters. But without law, how can sins be forgiven in the name of sin?\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752735/ce569a710001bc15196f93be059b1e22.png/original"
+  },
+  {
+    "question": "Narzissenkreuz Kingdom\n\"A long, long time in the future, in a place far, far away... There was the beautiful Narzissenkreuz Kingdom...\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752747/56784505d025122481bf278455ed969b.png/original"
+  },
+  {
+    "question": "Graveyard of Ships\nFollowing the white ironclad flagship, like tiny shimmering stars scattered through the velvet night, the battleships of the armada sank into the bowels of the trench in their clash with the great beast. The surface and depths are haunted by ghostly legends, but this makes it the perfect place to hide for those who seek secrecy.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752738/afca62545f1731cae2c38a17feefa2ae.png/original"
+  },
+  {
+    "question": "Morning in the Beryl Mountains, Clear Weather\nSalsa once painted the scenery here.A clear morning in the Beryl Mountains, the dew left by the previous night's autumn winds has not yet evaporated...",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752741/47687f8ab893c3de2fcf68bc29090309.png/original"
+  },
+  {
+    "question": "Fontaine Hot Springs\nSalsa once painted the scenery here.Through the mist steaming upwards from the hot springs, towering Mont Automnequi rises into the clouds, with the Clementine Line piercing through its base.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752742/be83ba02d9139d98a116a9c665beb9bc.png/original"
+  },
+  {
+    "question": "The Seaside Village\nSalsa once painted the scenery here.A beautiful seaside village whose peace and serenity evoke yearning for such a tranquil life in those who see it.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752749/778ab6c45d7637a71302bc8bf83e0302.png/original"
+  },
+  {
+    "question": "View from Mont Automnequi\nSalsa once painted the scenery here.From Mont Automnequi, one can see the ridge of Elynas. Beneath the peaks and lakes, the homeland of the Melusines is hidden.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752737/7bcdc95ff44b8672327d1ac8a9d303fe.png/original"
+  },
+  {
+    "question": "Memories of Mont Esus\nSalsa once painted the scenery here.The gentle breeze winds through the flowery meadows in Mont Esus, setting the creaking arms of the windmill turning lazily. The peaceful and relaxed atmosphere here causes people to naturally find themselves dwelling on their most pleasant memories.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3752748/2f0a099de864c0b85049b3bbaca670cd.png/original"
+  },
+  {
+    "question": "A Sea of Exile\n\"No matter what the sin, it shall eventually be lost to the wave like sand.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3774734/c7dbb1c9c5b7b1232a7170d8eab6a832.png/original"
+  },
+  {
+    "question": "The Copper Keep\n\"A fastness of bronze and iron will collapse one day, but a city of law and justice will never fall.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3774735/365d21d964ae8b623e79a7cd0dfab1c1.png/original"
+  },
+  {
+    "question": "The Remnants of Brilliant Wisdom\nWhen excess intelligence and passion came together, research brought about results in a manner that surpassed everyone's expectations. Now, however, there remains no one to applaud that achievement.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3774737/7742d57143371558e5b51b3fec9e4066.png/original"
+  },
+  {
+    "question": "Scattered References\nThe aftershocks of that incident could not completely destroy it, and it would continue to exist in a form contrary to its original design. perhaps this might be considered a form of continuation as well.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3774736/d8dbaaa56cac6250cbd41b461c06b832.png/original"
+  },
+  {
+    "question": "The Wreck of Shattered Dreams\nWhen an ideal is destroyed, its most important responsibility is to hold its peace.However, some seen to believe that this burning energy serves some other purposes...",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3774733/8933cd369ad93bcc3d794f13bca0a20d.png/original"
+  },
+  {
+    "question": "The Drunkard's Ship\nA white ship that once glittered in the sun has now utterly rusted away. There are as many tales to be found here as currency, but outlanders who would step inside are as few as the moon.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3793963/fce531803d1ebc74e68816cbc3136535.png/original"
+  },
+  {
+    "question": "A Distant Harbor\nThe main port leading to other nations. They say that there was once a plan to build a fourth aquabus line that would connect Lumidouce Harbor and the Court of Fontaine, but this plan died with the aquabus's most powerful backer.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3793965/3e61ce347fa18e91450ae7bceb51b1d4.png/original"
+  },
+  {
+    "question": "Erinnyes's Watery Weeping Willow\nIn ancient times, the weeping willow of the lake was an object of reverence. All the water veins converge upon Erinnyes and the weeping willow flourishes or withers when the waters are sweet or bitter. The land of the lake is the same... Shame, then, that omens only arrive on the same moon as calamity.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3793973/e13bc6b7736e294b3d317b1f38517117.png/original"
+  },
+  {
+    "question": "The World's Amniotic Fluid\nThis was once to be, again, the cradle for all life.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3794077/f707718962e2f25e9afc87db9d9401d8.png/original"
+  },
+  {
+    "question": "Tower of Gestalt\nThis was once many things and many dreams.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3803691/8d47d401d0e7af816ac3c4f842004d6e.png/original"
+  },
+  {
+    "question": "The Lovely Legends of Petrichor\nThere are many beautiful and moving legends about Petrichor, but none of them have changed life in the little town.  Whenever the sea breeze carries the sound of the evening bell away, the townsfolk know that another leisurely day has passed.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873776/b3928d64477e0988f5ec1490e063e6cd.png/original"
+  },
+  {
+    "question": "Stage of Faded Gold\nThe conductor bereft of music once lamented a past that could never return here, at the end of all greatness and glory.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873775/72df5b2f6945b291518ccf9a7b7013f6.png/original"
+  },
+  {
+    "question": "Secret Locale of the Ancient Order\nMany secrets they uncovered here, but no answers.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873778/e549c42c06f309ad0900174cbd52dc88.png/original"
+  },
+  {
+    "question": "Slumbering Eternal City\n\"There is a capital under the sea.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873774/c56911cfe4aa6aee6340db9a57f3d92e.png/original"
+  },
+  {
+    "question": "Where Only the Bell Tolls\nThis great cavern that sank beneath the waves was once a prosperous royal port. If the ancient bells' tolling could pierce the barrier of ocean, lost souls may yet find their homeward road.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873777/39a83bfc42c1a5438f371955e49f4767.png/original"
+  },
+  {
+    "question": "Harmony's Shadow\n\"Fate is often naught but a shadow in which humans may glimpse happiness, all the better to push them upon the path to destruction.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873773/717a426b5d86015edb89f0c45a7a7b06.png/original"
+  },
+  {
+    "question": "The End of An Ancient Dream\n\"I had a dream... In that dream, even mortals had free will and their fates were undecided...\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873771/b7c03dd4eb56c73d73e8e77e65101438.png/original"
+  },
+  {
+    "question": "Gradus ad Capitolium\nThe dazzling Ichor once ran through the waterways to the great lake in the north, carrying justice and gladness all across the High Sea. That was Pax Remuria ― a wondrous time of glory and hope.",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3874155/73a87f9fd2e1390081447506db301d28.png/original"
+  },
+  {
+    "question": "Domus Requiem\n\"Please grant them eternal rest, and may the light ever shine upon them.\"",
+    "answer": "Fontaine",
+    "image": "https://img.game8.co/3873772/dd602db90a938316e9c53884be9b91ec.png/original"
+  },
+  {
+    "question": "Bishui's Twilight Luster\nThe final jade fell from here into the bottomless abyss. Here did the first wish become as but a river of smoke.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832899/f874682f0d1dac8beae151348ba46714.png/original"
+  },
+  {
+    "question": "The Blossoming Warmth of Qiaoying Sunlight\nWhen the gentle spring sun and winds caress the mountains of Chenyu, there will the rich fragrance of tea be accompanied by the dance of the Spiritscent Flower, just as in days past, drifting together through peaceful streets...",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832900/27a4db4fce921d4e6df40f532aef2db9.png/original"
+  },
+  {
+    "question": "The Clouds Cascade Around the Wharf\nIf one follows the Bishui River upstream, the prosperous merchant port built next to a vast waterfall will come into view. Here, the laughter of countless sailors and merchants and the calls of people buying and selling on every street form a unique scenic tapestry here at Liyue's northern edge.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832901/020eddea19db529e2727ee810265baa4.png/original"
+  },
+  {
+    "question": "Past Glories of Wangshan\nIn days gone by, when Guhua was at the height of its strength, various heroes from all walks of life would gather here, mingle, and drink, and the sound of song would never cease. Though the school's reputation has since waned, its magnificent hall still stands, inscribed with the “chivalry” of yesteryear.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832902/6714bf97c27160c848b8142e6497212f.png/original"
+  },
+  {
+    "question": "Jade Elegy of Bishui\n“... The spring's cries ripple through the vales, the shrines depart from the northeast shores. The heights and shallows in the southwest hide, sun and earth from each other divide, the eternal whirlpool that never churns, beautiful jade concealed within...”",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832903/ef244045a780cce81f148a371d758e81.png/original"
+  },
+  {
+    "question": "Ancient Pact\n“...Once this tree gets a bit larger, I'll pick its leaves and make some tea for all of you...”",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832904/33e63088b32420f67af17f2f0f01ad22.png/original"
+  },
+  {
+    "question": "Valley of Vibrant Butterflies\nAn adeptus's abode, far from the din of mortal comings and goings. In the distant past, it is said that the ancestral peoples who had lost their home due to war were taken in by an adeptus named Fujin, and here did they avoid the disaster that raged without. Thus did the flame of civilization endure rather than be snuffed out under titanic floods.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832905/a5d97d4f932dcb2528195874bfcfd7fc.png/original"
+  },
+  {
+    "question": "Herb-Housing Hall\nThe adeptus once revered as the “Herblord” has long since departed, and only empty medicinal containers remain. Even at war's very end, that desire to help those in need never once wavered.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832906/4a502fe31f84382604b92f1618e7d899.png/original"
+  },
+  {
+    "question": "Clear Skies Over Xuanlian\n“The weighty winds blow, yon' day is dark, the cascading falls flow clear.”",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832907/83c0d42d1e7f84eb0b07c95f97c47b1d.png/original"
+  },
+  {
+    "question": "Desolate Foothill Shrines\nIn the tales told by older folks, the ancestral peoples of Chenyu Vale migrated here from the far south, and they built a mighty ritual tower to touch the heavens and left many mighty temples. The jade tower is no more, and only silent, ancient ruins stand amidst the thick fog that shrouds the mountains, watching over a secret none now shall know.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832911/2d4a79b804092302d7d2ba991f01c6f3.png/original"
+  },
+  {
+    "question": "Trails of Laixin\n“Though stalwart stone may sink, it shall return rite-rightly.”",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832908/108d0d326f9863e6d8994cd9e1b40c88.png/original"
+  },
+  {
+    "question": "Chiwang Peak\nIn the long-forgotten mists of time, the ancestors of Chenyu Vale named this place the “Hanging Garden.” Once-prosperous realms became divided into many tribes, and the tribes would later again unite into a prosperous realm, but the spirit veins of Chenyu Vale are as they ever were, gathering faithfully in this place.",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832909/159cba501a87ccd88f7857ff0e1060b5.png/original"
+  },
+  {
+    "question": "Clarion Echo\n“...Jade shall rise from sunken mouth... Gain and loss are inextricable, rise and fall, inseparable. Wax and wave is but a dream - the river flows as it ever has...”",
+    "answer": "Chenyu Vale",
+    "image": "https://img.game8.co/3832910/ed65f0f41e3579217d147a428f2903da.png/original"
+  }
+]
