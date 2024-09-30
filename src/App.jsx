@@ -20,17 +20,17 @@ const App = () => {
 
   const currentCard = cards[currentCardIndex];
   const backgroundImage = currentCard.image;
-  const content = showAnswer ? currentCard.answer : currentCard.question
+  const content = showAnswer ? { viewpoint: currentCard.answer, description: '' } : { viewpoint: currentCard.question.split('\n')[0], description: currentCard.question.split('\n')[1] };
 
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundImage: `url(${backgroundImage})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className= "header">
         <h2>Genshin Viewpoint Trivia</h2>
         <h4>How well do you know the Genshin viewpoint locations? Guess the Nation based on the description, viewpoint name, and image!</h4>
         <h5>Number of Cards: {cards.length}</h5>
       </div>
 
-      <Card content = {content} onclick={handleCardClick} backgroundImage = {backgroundImage} />
+      <Card content = {content} onclick={handleCardClick} />
       <button onClick={handleNextClick}>Next</button>
     </div>
   )

@@ -45,8 +45,11 @@ axios.get(url, { responseType: 'text' })
           console.log(`Viewpoint: ${viewpointName}, Description: ${description}, Image URL: ${imgUrl}`);
 
           if (viewpointName && description && imgUrl) {
+            // Remove duplicate viewpoint name from description
+            const cleanedDescription = description.replace(new RegExp(`^${viewpointName}\\s*`, 'i'), '');
+
             cards.push({
-              question: `Viewpoint: ${viewpointName}\nDescription: ${description}`,
+              question: `${viewpointName}\n${cleanedDescription}`,
               answer: nation,
               image: imgUrl
             });
