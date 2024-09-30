@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 - [X] Cards contains images in addition to or in place of text
 - [ ] Cards have different visual styles such as color based on their category
-  - [X] *The background image changes when the card*
+  - [X] *The background image changes when the card changes*
 
 The following **additional** features are implemented:
 
