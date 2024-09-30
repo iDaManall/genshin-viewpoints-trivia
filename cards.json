@@ -1,0 +1,787 @@
+[
+  {
+    "question": "Where is 'The City of Wind' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Viewpoint_The_City_of_Wind.png/revision/latest/scale-to-width-down/300?cb=20210415173019"
+  },
+  {
+    "question": "Where is 'The Marsh of Celestial Guardians' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Viewpoint_The_Marsh_of_Celestial_Guardians.png/revision/latest/scale-to-width-down/300?cb=20210415173025"
+  },
+  {
+    "question": "Where is 'Windswept Wilderness' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Viewpoint_Windswept_Wilderness.png/revision/latest/scale-to-width-down/300?cb=20210415173055"
+  },
+  {
+    "question": "Where is 'Land of Clear Springs' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Viewpoint_Land_of_Clear_Springs.png/revision/latest/scale-to-width-down/300?cb=20210415172932"
+  },
+  {
+    "question": "Where is 'Manor of Daybreak' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Viewpoint_Manor_of_Daybreak.png/revision/latest/scale-to-width-down/300?cb=20210415172938"
+  },
+  {
+    "question": "Where is 'Favonius Cathedral' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Viewpoint_Favonius_Cathedral.png/revision/latest/scale-to-width-down/300?cb=20210415172903"
+  },
+  {
+    "question": "Where is 'Knights of Favonius - Library' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Viewpoint_Knights_of_Favonius_-_Library.png/revision/latest/scale-to-width-down/300?cb=20210415172924"
+  },
+  {
+    "question": "Where is 'Ancient Thousand Winds Temple' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Viewpoint_Ancient_Thousand_Winds_Temple.png/revision/latest/scale-to-width-down/300?cb=20210415172837"
+  },
+  {
+    "question": "Where is 'Forgotten Sword Cemetery' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Viewpoint_Forgotten_Sword_Cemetery.png/revision/latest/scale-to-width-down/300?cb=20210415172918"
+  },
+  {
+    "question": "Where is 'Abandoned Capital of Howling Winds' located in?",
+    "answer": "Mondstadt",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Viewpoint_Abandoned_Capital_of_Howling_Winds.png/revision/latest/scale-to-width-down/300?cb=20210415172831"
+  },
+  {
+    "question": "Where is 'Where Merchants Flock And All Ships Dock' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Viewpoint_Where_Merchants_Flock_And_All_Ships_Dock.png/revision/latest/scale-to-width-down/300?cb=20210415173042"
+  },
+  {
+    "question": "Where is 'Feiyun Slope' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Viewpoint_Feiyun_Slope.png/revision/latest/scale-to-width-down/300?cb=20210415172912"
+  },
+  {
+    "question": "Where is 'Chihu Rock' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Viewpoint_Chihu_Rock.png/revision/latest/scale-to-width-down/300?cb=20210415172849"
+  },
+  {
+    "question": "Where is 'Yujing Terrace' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Viewpoint_Yujing_Terrace.png/revision/latest/scale-to-width-down/300?cb=20210415173100"
+  },
+  {
+    "question": "Where is 'Vigilant Guardians' Vantage Point' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Viewpoint_Vigilant_Guardians%27_Vantage_Point.png/revision/latest/scale-to-width-down/300?cb=20210415173032"
+  },
+  {
+    "question": "Where is 'Marsh of Rustling Reeds' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Viewpoint_Marsh_of_Rustling_Reeds.png/revision/latest/scale-to-width-down/300?cb=20210415172942"
+  },
+  {
+    "question": "Where is 'Ruins of Guili' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Viewpoint_Ruins_of_Guili.png/revision/latest/scale-to-width-down/300?cb=20210415173014"
+  },
+  {
+    "question": "Where is 'A Home in the Hills' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Viewpoint_A_Home_in_the_Hills.png/revision/latest/scale-to-width-down/300?cb=20210415172822"
+  },
+  {
+    "question": "Where is 'Where Mountains Peak Beyond the Clouds' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Viewpoint_Where_Mountains_Peak_Beyond_the_Clouds.png/revision/latest/scale-to-width-down/300?cb=20230117120757"
+  },
+  {
+    "question": "Where is 'Moonlit Tree' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Viewpoint_Moonlit_Tree.png/revision/latest/scale-to-width-down/300?cb=20210415172956"
+  },
+  {
+    "question": "Where is 'Mist-Veiled Stone Forest' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Viewpoint_Mist-Veiled_Stone_Forest.png/revision/latest/scale-to-width-down/300?cb=20210415172948"
+  },
+  {
+    "question": "Where is 'Weeping Garden' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Viewpoint_Weeping_Garden.png/revision/latest/scale-to-width-down/300?cb=20210415173037"
+  },
+  {
+    "question": "Where is 'A Drop in the Ocean' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Viewpoint_A_Drop_in_the_Ocean.png/revision/latest/scale-to-width-down/300?cb=20210415172817"
+  },
+  {
+    "question": "Where is 'Beyond the Chasm' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Viewpoint_Beyond_the_Chasm.png/revision/latest/scale-to-width-down/300?cb=20221023194457"
+  },
+  {
+    "question": "Where is 'Dunyu Ruins' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Viewpoint_Dunyu_Ruins.png/revision/latest/scale-to-width-down/300?cb=20210415172854"
+  },
+  {
+    "question": "Where is 'Qingxu's Forsaken Tower' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Viewpoint_Qingxu%27s_Forsaken_Tower.png/revision/latest/scale-to-width-down/300?cb=20210415173009"
+  },
+  {
+    "question": "Where is 'Nine Pillars of Peace' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Viewpoint_Nine_Pillars_of_Peace.png/revision/latest/scale-to-width-down/300?cb=20210415173003"
+  },
+  {
+    "question": "Where is 'View from The Chasm's Surface' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Viewpoint_View_from_The_Chasm%27s_Surface.png/revision/latest/scale-to-width-down/300?cb=20220331081853"
+  },
+  {
+    "question": "Where is 'Mouth of the Great Mine' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Viewpoint_Mouth_of_the_Great_Mine.png/revision/latest/scale-to-width-down/300?cb=20220901171109"
+  },
+  {
+    "question": "Where is 'The Ancient Battlefield of Fuao Vale' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Viewpoint_The_Ancient_Battlefield_of_Fuao_Vale.png/revision/latest/scale-to-width-down/300?cb=20220330054415"
+  },
+  {
+    "question": "Where is 'The Underground Mines' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Viewpoint_The_Underground_Mines.png/revision/latest/scale-to-width-down/300?cb=20220331092232"
+  },
+  {
+    "question": "Where is 'The Blocked Path' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Viewpoint_The_Blocked_Path.png/revision/latest/scale-to-width-down/300?cb=20220331092222"
+  },
+  {
+    "question": "Where is 'Underground Waterway' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Viewpoint_Underground_Waterway.png/revision/latest/scale-to-width-down/300?cb=20220331092220"
+  },
+  {
+    "question": "Where is 'Crystal Fragment' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Viewpoint_Crystal_Fragment.png/revision/latest/scale-to-width-down/300?cb=20220901171128"
+  },
+  {
+    "question": "Where is 'The Inverted City' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Viewpoint_The_Inverted_City.png/revision/latest/scale-to-width-down/300?cb=20220331092229"
+  },
+  {
+    "question": "Where is 'The Great Mushroom's Place' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Viewpoint_The_Great_Mushroom%27s_Place.png/revision/latest/scale-to-width-down/300?cb=20220331092226"
+  },
+  {
+    "question": "Where is 'The Court of Pillars' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Viewpoint_The_Court_of_Pillars.png/revision/latest/scale-to-width-down/300?cb=20220404123605"
+  },
+  {
+    "question": "Where is 'Jade Elegy of Bishui' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Viewpoint_Jade_Elegy_of_Bishui.png/revision/latest/scale-to-width-down/300?cb=20240212213419"
+  },
+  {
+    "question": "Where is 'The Clouds Cascade Around the Wharf' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Viewpoint_The_Clouds_Cascade_Around_the_Wharf.png/revision/latest/scale-to-width-down/300?cb=20240205002538"
+  },
+  {
+    "question": "Where is 'Valley of Vibrant Butterflies' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Viewpoint_Valley_of_Vibrant_Butterflies.png/revision/latest/scale-to-width-down/300?cb=20240131111338"
+  },
+  {
+    "question": "Where is 'Herb-Housing Hall' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Viewpoint_Herb-Housing_Hall.png/revision/latest/scale-to-width-down/300?cb=20240220054104"
+  },
+  {
+    "question": "Where is 'Clarion Echo' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Viewpoint_Clarion_Echo.png/revision/latest/scale-to-width-down/300?cb=20240222164732"
+  },
+  {
+    "question": "Where is 'Past Glories of Wangshan' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Viewpoint_Past_Glories_of_Wangshan.png/revision/latest/scale-to-width-down/300?cb=20240131093406"
+  },
+  {
+    "question": "Where is 'Clear Skies Over Xuanlian' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Viewpoint_Clear_Skies_Over_Xuanlian.png/revision/latest/scale-to-width-down/300?cb=20240222165050"
+  },
+  {
+    "question": "Where is 'Desolate Foothill Shrines' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Viewpoint_Desolate_Foothill_Shrines.png/revision/latest/scale-to-width-down/300?cb=20240131102804"
+  },
+  {
+    "question": "Where is 'Trails of Laixin' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Viewpoint_Trails_of_Laixin.png/revision/latest/scale-to-width-down/300?cb=20240222165053"
+  },
+  {
+    "question": "Where is 'Chiwang Peak' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Viewpoint_Chiwang_Peak.png/revision/latest/scale-to-width-down/300?cb=20240222165048"
+  },
+  {
+    "question": "Where is 'Ancient Pact' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Viewpoint_Ancient_Pact.png/revision/latest/scale-to-width-down/300?cb=20240222165046"
+  },
+  {
+    "question": "Where is 'The Blossoming Warmth of Qiaoying Sunlight' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Viewpoint_The_Blossoming_Warmth_of_Qiaoying_Sunlight.png/revision/latest/scale-to-width-down/300?cb=20240131184738"
+  },
+  {
+    "question": "Where is 'Bishui's Twilight Luster' located in?",
+    "answer": "Liyue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Viewpoint_Bishui%27s_Twilight_Luster.png/revision/latest/scale-to-width-down/300?cb=20240131131032"
+  },
+  {
+    "question": "Where is 'Ritou, Narukami Island' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Viewpoint_Ritou%2C_Narukami_Island.png/revision/latest/scale-to-width-down/300?cb=20210723005433"
+  },
+  {
+    "question": "Where is 'Tenryou, Inazuma City' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Viewpoint_Tenryou%2C_Inazuma_City.png/revision/latest/scale-to-width-down/300?cb=20210723005030"
+  },
+  {
+    "question": "Where is 'Suburbs, Inazuma City' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Viewpoint_Suburbs%2C_Inazuma_City.png/revision/latest/scale-to-width-down/300?cb=20210723005148"
+  },
+  {
+    "question": "Where is 'The Sacred Forest in the Moonlight' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Viewpoint_The_Sacred_Forest_in_the_Moonlight.png/revision/latest/scale-to-width-down/300?cb=20210723005710"
+  },
+  {
+    "question": "Where is 'Grand Narukami Shrine, Mt. Yougou' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Viewpoint_Grand_Narukami_Shrine%2C_Mt._Yougou.png/revision/latest/scale-to-width-down/300?cb=20210723010657"
+  },
+  {
+    "question": "Where is 'Tatara Islands' Vantage Point' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Viewpoint_Tatara_Islands%27_Vantage_Point.png/revision/latest/scale-to-width-down/300?cb=20210723005252"
+  },
+  {
+    "question": "Where is 'Front Line, Kannazuka' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Viewpoint_Front_Line%2C_Kannazuka.png/revision/latest/scale-to-width-down/300?cb=20210723005343"
+  },
+  {
+    "question": "Where is 'Tidal Flat Amidst the Flames of War' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Viewpoint_Tidal_Flat_Amidst_the_Flames_of_War.png/revision/latest/scale-to-width-down/300?cb=20210723005616"
+  },
+  {
+    "question": "Where is 'Rift Valley, Yashiori Island' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Viewpoint_Rift_Valley%2C_Yashiori_Island.png/revision/latest/scale-to-width-down/300?cb=20210723005935"
+  },
+  {
+    "question": "Where is 'Overlooking Serpent Head' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Viewpoint_Overlooking_Serpent_Head.png/revision/latest/scale-to-width-down/300?cb=20210723005530"
+  },
+  {
+    "question": "Where is 'The Silent Fishing Village' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Viewpoint_The_Silent_Fishing_Village.png/revision/latest/scale-to-width-down/300?cb=20210911035808"
+  },
+  {
+    "question": "Where is 'The Stranded Flagship' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Viewpoint_The_Stranded_Flagship.png/revision/latest/scale-to-width-down/300?cb=20210911035809"
+  },
+  {
+    "question": "Where is 'Where the Provisional Head Priestess Lives' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Viewpoint_Where_the_Provisional_Head_Priestess_Lives.png/revision/latest/scale-to-width-down/300?cb=20210911035811"
+  },
+  {
+    "question": "Where is 'Where Swirling Storm Clouds Gather' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Viewpoint_Where_Swirling_Storm_Clouds_Gather.png/revision/latest/scale-to-width-down/300?cb=20210911035812"
+  },
+  {
+    "question": "Where is 'The Pearlescent Palace' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Viewpoint_The_Pearlescent_Palace.png/revision/latest/scale-to-width-down/300?cb=20210911035814"
+  },
+  {
+    "question": "Where is 'Village of the People of the Deep' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Viewpoint_Village_of_the_People_of_the_Deep.png/revision/latest/scale-to-width-down/300?cb=20210911035816"
+  },
+  {
+    "question": "Where is 'The Moon-Bathed Deep' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Viewpoint_The_Moon-Bathed_Deep.png/revision/latest/scale-to-width-down/300?cb=20210911035817"
+  },
+  {
+    "question": "Where is 'Tsurumi Island' located in?",
+    "answer": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Viewpoint_Tsurumi_Island.png/revision/latest/scale-to-width-down/300?cb=20220901142744"
+  },
+  {
+    "question": "Where is 'The City Where All Wisdom Resides' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Viewpoint_The_City_Where_All_Wisdom_Resides.png/revision/latest/scale-to-width-down/300?cb=20220824043305"
+  },
+  {
+    "question": "Where is 'The City Above the Forest' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Viewpoint_The_City_Above_the_Forest.png/revision/latest/scale-to-width-down/300?cb=20220901143132"
+  },
+  {
+    "question": "Where is 'The Village by the River' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Viewpoint_The_Village_by_the_River.png/revision/latest/scale-to-width-down/300?cb=20220901142926"
+  },
+  {
+    "question": "Where is 'The Harbor Betwixt the Two Trees' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Viewpoint_The_Harbor_Betwixt_the_Two_Trees.png/revision/latest/scale-to-width-down/300?cb=20220901142956"
+  },
+  {
+    "question": "Where is 'Memory of Alcazarzaray' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Viewpoint_Memory_of_Alcazarzaray.png/revision/latest/scale-to-width-down/300?cb=20220824062624"
+  },
+  {
+    "question": "Where is 'The Garden of Deep Thought' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Viewpoint_The_Garden_of_Deep_Thought.png/revision/latest/scale-to-width-down/300?cb=20220901143020"
+  },
+  {
+    "question": "Where is 'The Frontier Beneath the High Wall' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Viewpoint_The_Frontier_Beneath_the_High_Wall.png/revision/latest/scale-to-width-down/300?cb=20220826094937"
+  },
+  {
+    "question": "Where is 'The Colossus Watching Devantaka' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Viewpoint_The_Colossus_Watching_Devantaka.png/revision/latest/scale-to-width-down/300?cb=20220901143102"
+  },
+  {
+    "question": "Where is 'Varunastra' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Viewpoint_Varunastra.png/revision/latest/scale-to-width-down/300?cb=20220901131100"
+  },
+  {
+    "question": "Where is 'The Rain's End' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Viewpoint_The_Rain%27s_End.png/revision/latest/scale-to-width-down/300?cb=20220901131321"
+  },
+  {
+    "question": "Where is 'The Land of Mawtiyima' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Viewpoint_The_Land_of_Mawtiyima.png/revision/latest/scale-to-width-down/300?cb=20220901131937"
+  },
+  {
+    "question": "Where is 'Aranaga's Little Garden' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Viewpoint_Aranaga%27s_Little_Garden.png/revision/latest/scale-to-width-down/300?cb=20220901132823"
+  },
+  {
+    "question": "Where is 'The World of the Aranara' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Viewpoint_The_World_of_the_Aranara.png/revision/latest/scale-to-width-down/300?cb=20220901134052"
+  },
+  {
+    "question": "Where is 'Nursery of Lost Dreams' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Viewpoint_Nursery_of_Lost_Dreams.png/revision/latest/scale-to-width-down/300?cb=20220901140348"
+  },
+  {
+    "question": "Where is 'The Littlest Dream' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Viewpoint_The_Littlest_Dream.png/revision/latest/scale-to-width-down/300?cb=20220901140406"
+  },
+  {
+    "question": "Where is 'The Garden's New Sprouts' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Viewpoint_The_Garden%27s_New_Sprouts.png/revision/latest/scale-to-width-down/300?cb=20220901140451"
+  },
+  {
+    "question": "Where is 'The Barren Land Where Sand Dances' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Viewpoint_The_Barren_Land_Where_Sand_Dances.png/revision/latest/scale-to-width-down/300?cb=20221002235031"
+  },
+  {
+    "question": "Where is 'Towers of Betrayal' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Viewpoint_Towers_of_Betrayal.png/revision/latest/scale-to-width-down/300?cb=20220928034040"
+  },
+  {
+    "question": "Where is 'Refugee Shelters' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Viewpoint_Refugee_Shelters.png/revision/latest/scale-to-width-down/300?cb=20221002235027"
+  },
+  {
+    "question": "Where is 'Thamud Oasis' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Viewpoint_Thamud_Oasis.png/revision/latest/scale-to-width-down/300?cb=20221002235029"
+  },
+  {
+    "question": "Where is 'The Mausoleum of King Deshret' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Viewpoint_The_Mausoleum_of_King_Deshret.png/revision/latest/scale-to-width-down/300?cb=20221002235037"
+  },
+  {
+    "question": "Where is 'The Thousands of Entombed Chambers' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Viewpoint_The_Thousands_of_Entombed_Chambers.png/revision/latest/scale-to-width-down/300?cb=20230117120004"
+  },
+  {
+    "question": "Where is 'Khaj-Nisut' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Viewpoint_Khaj-Nisut.png/revision/latest/scale-to-width-down/300?cb=20221002235022"
+  },
+  {
+    "question": "Where is 'The Bottomless Hall' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Viewpoint_The_Bottomless_Hall.png/revision/latest/scale-to-width-down/300?cb=20221002235033"
+  },
+  {
+    "question": "Where is 'Aaru's Shut' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Viewpoint_Aaru%27s_Shut.png/revision/latest/scale-to-width-down/300?cb=20221002235020"
+  },
+  {
+    "question": "Where is 'The Giant of the Wind-Eroded Valley' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Viewpoint_The_Giant_of_the_Wind-Eroded_Valley.png/revision/latest/scale-to-width-down/300?cb=20221002235035"
+  },
+  {
+    "question": "Where is 'Lifeless Dar al-Shifa' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Viewpoint_Lifeless_Dar_al-Shifa.png/revision/latest/scale-to-width-down/300?cb=20221002235024"
+  },
+  {
+    "question": "Where is 'Verdant Fields' Vantage Point' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Viewpoint_Verdant_Fields%27_Vantage_Point.png/revision/latest/scale-to-width-down/300?cb=20221002235044"
+  },
+  {
+    "question": "Where is 'Mt. Damavand, Where Sandstorms Never Cease' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Viewpoint_Mt._Damavand%2C_Where_Sandstorms_Never_Cease.png/revision/latest/scale-to-width-down/300?cb=20230119192656"
+  },
+  {
+    "question": "Where is 'The Moonblue Canals' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Viewpoint_The_Moonblue_Canals.png/revision/latest/scale-to-width-down/300?cb=20230119192749"
+  },
+  {
+    "question": "Where is 'The Tanit Encampment' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Viewpoint_The_Tanit_Encampment.png/revision/latest/scale-to-width-down/300?cb=20230119193022"
+  },
+  {
+    "question": "Where is 'The Palace Abandoned by the Gods' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Viewpoint_The_Palace_Abandoned_by_the_Gods.png/revision/latest/scale-to-width-down/300?cb=20230119192846"
+  },
+  {
+    "question": "Where is 'The Temple of Buried Dominion' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Viewpoint_The_Temple_of_Buried_Dominion.png/revision/latest/scale-to-width-down/300?cb=20230119193624"
+  },
+  {
+    "question": "Where is 'Wenut Tunnels' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Viewpoint_Wenut_Tunnels.png/revision/latest/scale-to-width-down/300?cb=20230119193525"
+  },
+  {
+    "question": "Where is 'The Lost Hermitage' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Viewpoint_The_Lost_Hermitage.png/revision/latest/scale-to-width-down/300?cb=20230119193248"
+  },
+  {
+    "question": "Where is 'The Forgotten River Valley' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Viewpoint_The_Forgotten_River_Valley.png/revision/latest/scale-to-width-down/300?cb=20230119193426"
+  },
+  {
+    "question": "Where is 'The Gap of the Hidden Ruins' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Viewpoint_The_Gap_of_the_Hidden_Ruins.png/revision/latest/scale-to-width-down/300?cb=20230119193712"
+  },
+  {
+    "question": "Where is 'The Court of Dried Springs' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Viewpoint_The_Court_of_Dried_Springs.png/revision/latest/scale-to-width-down/300?cb=20230119195545"
+  },
+  {
+    "question": "Where is 'The Court of Withered Life' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Viewpoint_The_Court_of_Withered_Life.png/revision/latest/scale-to-width-down/300?cb=20230119195703"
+  },
+  {
+    "question": "Where is 'Where a Titan's Shins Were Broken' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Viewpoint_Where_a_Titan%27s_Shins_Were_Broken.png/revision/latest/scale-to-width-down/300?cb=20230119200925"
+  },
+  {
+    "question": "Where is 'Safhe Shatranj' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Viewpoint_Safhe_Shatranj.png/revision/latest/scale-to-width-down/300?cb=20230119202259"
+  },
+  {
+    "question": "Where is 'Liloupar's Gaol' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Viewpoint_Liloupar%27s_Gaol.png/revision/latest/scale-to-width-down/300?cb=20230119201239"
+  },
+  {
+    "question": "Where is 'Remnants of the Ancient Orchard' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Viewpoint_Remnants_of_the_Ancient_Orchard.png/revision/latest/scale-to-width-down/300?cb=20230119202239"
+  },
+  {
+    "question": "Where is 'Ad-Hoc Headquarters of the Fatui Expeditionary Force' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Viewpoint_Ad-Hoc_Headquarters_of_the_Fatui_Expeditionary_Force.png/revision/latest/scale-to-width-down/300?cb=20230119201755"
+  },
+  {
+    "question": "Where is 'The Paradise of Eternal Peace' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Viewpoint_The_Paradise_of_Eternal_Peace.png/revision/latest/scale-to-width-down/300?cb=20230119201355"
+  },
+  {
+    "question": "Where is 'Elder Pine Atop the Wastes' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Viewpoint_Elder_Pine_Atop_the_Wastes.png/revision/latest/scale-to-width-down/300?cb=20230414204433"
+  },
+  {
+    "question": "Where is 'Forge of the Abandoned Foundry' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Viewpoint_Forge_of_the_Abandoned_Foundry.png/revision/latest/scale-to-width-down/300?cb=20230414204435"
+  },
+  {
+    "question": "Where is 'Gate of Everlasting Mourning' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Viewpoint_Gate_of_Everlasting_Mourning.png/revision/latest/scale-to-width-down/300?cb=20230414204437"
+  },
+  {
+    "question": "Where is 'Valley of the Unsullied' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Viewpoint_Valley_of_the_Unsullied.png/revision/latest/scale-to-width-down/300?cb=20230414204441"
+  },
+  {
+    "question": "Where is 'Amrita-Nourished Nest' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Viewpoint_Amrita-Nourished_Nest.png/revision/latest/scale-to-width-down/300?cb=20230414204431"
+  },
+  {
+    "question": "Where is 'Harvisptokhm' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Viewpoint_Harvisptokhm.png/revision/latest/scale-to-width-down/300?cb=20230414204439"
+  },
+  {
+    "question": "Where is 'Sourcewater Nation' located in?",
+    "answer": "Sumeru",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Viewpoint_Sourcewater_Nation.png/revision/latest/scale-to-width-down/300?cb=20230818011012"
+  },
+  {
+    "question": "Where is 'Scenery Within Elynas' Depths' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Viewpoint_Scenery_Within_Elynas%27_Depths.png/revision/latest/scale-to-width-down/300?cb=20230818011249"
+  },
+  {
+    "question": "Where is 'Scenery Within Elynas' Deepest Depths' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Viewpoint_Scenery_Within_Elynas%27_Deepest_Depths.png/revision/latest/scale-to-width-down/300?cb=20230818011814"
+  },
+  {
+    "question": "Where is '\"Oratrice Mecanique d'Analyse Cardinale\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Viewpoint_%22Oratrice_Mecanique_d%27Analyse_Cardinale%22.png/revision/latest/scale-to-width-down/300?cb=20230818012026"
+  },
+  {
+    "question": "Where is 'Foamy Home' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Viewpoint_Foamy_Home.png/revision/latest/scale-to-width-down/300?cb=20230818012258"
+  },
+  {
+    "question": "Where is 'Ancient Conch Melody of Yore' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Viewpoint_Ancient_Conch_Melody_of_Yore.png/revision/latest/scale-to-width-down/300?cb=20230818012600"
+  },
+  {
+    "question": "Where is 'Where Dark Tides Echo' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Viewpoint_Where_Dark_Tides_Echo.png/revision/latest/scale-to-width-down/300?cb=20230818012820"
+  },
+  {
+    "question": "Where is 'Sunken Glory' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Viewpoint_Sunken_Glory.png/revision/latest/scale-to-width-down/300?cb=20230818013004"
+  },
+  {
+    "question": "Where is 'Court of Dew and Springs' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Viewpoint_Court_of_Dew_and_Springs.png/revision/latest/scale-to-width-down/300?cb=20230818013134"
+  },
+  {
+    "question": "Where is 'Land of Corroded Shadows and Tainted Currents' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Viewpoint_Land_of_Corroded_Shadows_and_Tainted_Currents.png/revision/latest/scale-to-width-down/300?cb=20230818013317"
+  },
+  {
+    "question": "Where is 'Seaworn Cavern' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Viewpoint_Seaworn_Cavern.png/revision/latest/scale-to-width-down/300?cb=20230818013436"
+  },
+  {
+    "question": "Where is '\"Narzissenkreuz Kingdom\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Viewpoint_%22Narzissenkreuz_Kingdom%22.png/revision/latest/scale-to-width-down/300?cb=20230818013825"
+  },
+  {
+    "question": "Where is 'Erinnyes' Whirling Dance' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Viewpoint_Erinnyes%27_Whirling_Dance.png/revision/latest/scale-to-width-down/300?cb=20230818014035"
+  },
+  {
+    "question": "Where is '\"Memories of Mont Esus\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Viewpoint_%22Memories_of_Mont_Esus%22.png/revision/latest/scale-to-width-down/300?cb=20230818014313"
+  },
+  {
+    "question": "Where is '\"View From Mont Automnequi\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Viewpoint_%22View_From_Mont_Automnequi%22.png/revision/latest/scale-to-width-down/300?cb=20230818014640"
+  },
+  {
+    "question": "Where is '\"Fontaine Hot Springs\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Viewpoint_%22Fontaine_Hot_Springs%22.png/revision/latest/scale-to-width-down/300?cb=20230818014927"
+  },
+  {
+    "question": "Where is '\"Morning in the Beryl Mountains, Clear Weather\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Viewpoint_%22Morning_in_the_Beryl_Mountains%2C_Clear_Weather%22.png/revision/latest/scale-to-width-down/300?cb=20230818015125"
+  },
+  {
+    "question": "Where is '\"The Seaside Village\"' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Viewpoint_%22The_Seaside_Village%22.png/revision/latest/scale-to-width-down/300?cb=20230818015339"
+  },
+  {
+    "question": "Where is 'Graveyard of Ships' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Viewpoint_Graveyard_of_Ships.png/revision/latest/scale-to-width-down/300?cb=20230818015512"
+  },
+  {
+    "question": "Where is 'The Remnants of Brilliant Wisdom' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Viewpoint_The_Remnants_of_Brilliant_Wisdom.png/revision/latest/scale-to-width-down/300?cb=20231010200048"
+  },
+  {
+    "question": "Where is 'The Wreck of Shattered Dreams' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Viewpoint_The_Wreck_of_Shattered_Dreams.png/revision/latest/scale-to-width-down/300?cb=20231010200349"
+  },
+  {
+    "question": "Where is 'A Sea of Exile' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Viewpoint_A_Sea_of_Exile.png/revision/latest/scale-to-width-down/300?cb=20231010200737"
+  },
+  {
+    "question": "Where is 'The Copper Keep' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Viewpoint_The_Copper_Keep.png/revision/latest/scale-to-width-down/300?cb=20231010201005"
+  },
+  {
+    "question": "Where is 'Scattered References' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Viewpoint_Scattered_References.png/revision/latest/scale-to-width-down/300?cb=20231010201217"
+  },
+  {
+    "question": "Where is 'Erinnyes's Watery Weeping Willow' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Viewpoint_Erinnyes%27s_Watery_Weeping_Willow.png/revision/latest/scale-to-width-down/300?cb=20231108141809"
+  },
+  {
+    "question": "Where is 'The Drunkard's Ship' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Viewpoint_The_Drunkard%27s_Ship.png/revision/latest/scale-to-width-down/300?cb=20231108141855"
+  },
+  {
+    "question": "Where is 'A Distant Harbor' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Viewpoint_A_Distant_Harbor.png/revision/latest/scale-to-width-down/300?cb=20231108141940"
+  },
+  {
+    "question": "Where is 'Tower of Gestalt' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Viewpoint_Tower_of_Gestalt.png/revision/latest/scale-to-width-down/300?cb=20231108142018"
+  },
+  {
+    "question": "Where is 'The World's Amniotic Fluid' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Viewpoint_The_World%27s_Amniotic_Fluid.png/revision/latest/scale-to-width-down/300?cb=20231108142055"
+  },
+  {
+    "question": "Where is 'The Lovely Legends of Petrichor' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Viewpoint_The_Lovely_Legends_of_Petrichor.png/revision/latest/scale-to-width-down/300?cb=20240520025640"
+  },
+  {
+    "question": "Where is 'Stage of Faded Gold' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Viewpoint_Stage_of_Faded_Gold.png/revision/latest/scale-to-width-down/300?cb=20240520033312"
+  },
+  {
+    "question": "Where is 'Secret Locale of the Ancient Order' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Viewpoint_Secret_Locale_of_the_Ancient_Order.png/revision/latest/scale-to-width-down/300?cb=20240520034905"
+  },
+  {
+    "question": "Where is 'Slumbering Eternal City' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Viewpoint_Slumbering_Eternal_City.png/revision/latest/scale-to-width-down/300?cb=20240520035932"
+  },
+  {
+    "question": "Where is 'Where Only the Bell Tolls' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Viewpoint_Where_Only_the_Bell_Tolls.png/revision/latest/scale-to-width-down/300?cb=20240520041024"
+  },
+  {
+    "question": "Where is 'Gradus ad Capitolium' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Viewpoint_Gradus_ad_Capitolium.png/revision/latest/scale-to-width-down/300?cb=20240520043605"
+  },
+  {
+    "question": "Where is 'Domus Requiem' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Viewpoint_Domus_Requiem.png/revision/latest/scale-to-width-down/300?cb=20240520045826"
+  },
+  {
+    "question": "Where is 'Harmony's Shadow' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Viewpoint_Harmony%27s_Shadow.png/revision/latest/scale-to-width-down/300?cb=20240520050646"
+  },
+  {
+    "question": "Where is 'The End of An Ancient Dream' located in?",
+    "answer": "Fontaine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Viewpoint_The_End_of_An_Ancient_Dream.png/revision/latest/scale-to-width-down/300?cb=20240520051813"
+  }
+]

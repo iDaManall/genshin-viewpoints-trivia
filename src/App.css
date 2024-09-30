@@ -1,0 +1,40 @@
+
+.App {
+  text-align: center;
+  /* background-color: #1c1c1c; */
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Center the content vertically */
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  width: 400px; /* Increase the width */
+  height: 300px; /* Set a fixed height */
+  text-align: center;
+  margin: 20px 0;
+  transition: transform 0.2s;
+  background-size: cover;
+  background-position: center;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+
+
+
