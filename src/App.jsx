@@ -8,8 +8,14 @@ const App = () => {
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
   const [cardOrder, setCardOrder] = useState([]);
+  // for guessing 
   const [userGuess, setUserGuess] = useState('');
   const [feedback, setFeedback] = useState('');
+  const [hasSubmitted, setHasSubmitted] = useState(false);
+  // point and streak system
+  const [points, setPoints] = useState(0);
+  const [currentStreak, setCurrentStreak] = useState(0);
+  const [longestStreak, setLongestStreak] = useState(0);
 
   useEffect(() => {
     // Initialize card order with a shuffled order of indices
@@ -24,6 +30,7 @@ const App = () => {
   const handleCardClick = () => {
     // setShowAnswer(!showAnswer); // to switch the bool value of showAnswer
     setShowAnswer((prevShowAnswer) => !prevShowAnswer);
+    setHasSubmitted(true); // user can't guess if they flipped the card 
   };
 
   const handleNextClick = () => {
@@ -35,6 +42,7 @@ const App = () => {
     setShowAnswer(false);
     setUserGuess('');
     setFeedback('');
+    setHasSubmitted(false);
   };
 
   const handleBackClick = () => {
@@ -42,6 +50,7 @@ const App = () => {
     setShowAnswer(false);
     setUserGuess('');
     setFeedback('');
+    setHasSubmitted(false);
   };
 
   const handleShuffleClick = () => {
@@ -51,6 +60,7 @@ const App = () => {
     setShowAnswer(false);
     setUserGuess('');
     setFeedback('');
+    setHasSubmitted(false);
   };
 
   const handleInputChange = (e) => {
@@ -61,8 +71,18 @@ const App = () => {
     const currentCard = cards[cardOrder[currentCardIndex]];
     if (userGuess.toLowerCase() === currentCard.answer.toLowerCase()) {
       setFeedback('correct');
+      setPoints((prevPoints) => prevPoints + 1);
+      setCurrentStreak((prevStreak) => {
+        const newStreak = prevStreak + 1;
+        if (newStreak > longestStreak) {
+          setLongestStreak(newStreak);
+        }
+        return newStreak;
+      });
+      setHasSubmitted(true); // Disable further submissions for this card
     } else {
       setFeedback('incorrect');
+      setCurrentStreak(0);
     }
   };
 
@@ -84,6 +104,9 @@ const App = () => {
         <h2>Genshin Viewpoint Trivia</h2>
         <h4>How well do you know the Genshin viewpoint locations? Guess the Nation based on the description, viewpoint name, and image!</h4>
         <h5>Number of Cards: {cards.length}</h5>
+        <h5>Points: {points}</h5>
+        <h5>Current Streak: {currentStreak}</h5>
+        <h5>Longest Streak: {longestStreak}</h5>
       </div>
 
       <Card content = {content} onclick={handleCardClick} />
@@ -96,7 +119,7 @@ const App = () => {
           placeholder="Enter your guess"
           className={feedback}
         />
-        <button onClick={handleSubmitGuess}>Submit</button>
+        <button onClick={handleSubmitGuess} disabled={hasSubmitted}>Submit</button>
       </div>
       {/* {feedback && <div className="feedback">{feedback}</div>} */}
 

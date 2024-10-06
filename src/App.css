@@ -19,10 +19,18 @@ body {
 .header {
   margin-bottom: 20px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add text shadow for readability */
-  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
   padding: 10px;
   border-radius: 10px;
+  backdrop-filter: blur(5px); /* Add blur effect */
 
+}
+
+.header h5 {
+  display: inline-block; /* Make h5 elements inline */
+  margin-right: 15px; /* Add some space between them */
+  margin-left: 15px;
+  font-size: 1.0em;
 }
 
 .card {
@@ -33,11 +41,11 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   width: 500px; /* Increase the width */
-  min-height: 250xpx; /* Set a fixed height */
+  min-height: 250px; /* Set a fixed height */
   text-align: center;
   margin: 20px 0;
   transition: transform 0.2s;
-  backdrop-filter: blur(10px); /* Add blur effect */
+  backdrop-filter: blur(5px); /* Add blur effect */
   display: flex;
   flex-direction: column;
   justify-content: space-between; /* Space out the content */
