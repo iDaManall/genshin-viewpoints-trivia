@@ -33,7 +33,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   width: 500px; /* Increase the width */
-  height: 400px; /* Set a fixed height */
+  min-height: 250xpx; /* Set a fixed height */
   text-align: center;
   margin: 20px 0;
   transition: transform 0.2s;
@@ -62,8 +62,8 @@ body {
 }
 
 .card-content .description {
-  margin-top: auto; /* Push to the bottom */
-  font-size: 1.2em; /* Increase font size */
+  margin-top: 30px; /* Push to the bottom */
+  font-size: 1.1em; /* Increase font size */
   padding-bottom: 20px;
 
 }
@@ -76,11 +76,51 @@ button {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
+  margin: 10px;
 }
 
 button:hover {
   background-color: #333;
 }
 
+/* Feedback styles */
+/* .feedback {
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: 600;
+} */
+
+/* Input styles */
+/* .input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+} */
+
+input[type="text"] {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+  margin-bottom: 10px;
+  transition: border-color 0.3s;
+}
+
+input[type="text"].correct {
+  border-color: green;
+}
+
+input[type="text"].incorrect {
+  border-color: red;
+}
+
+button.correct {
+  background-color: green;
+}
+
+button.incorrect {
+  background-color: red;
+}
 
 
