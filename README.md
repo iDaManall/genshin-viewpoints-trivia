@@ -1,4 +1,5 @@
 # Web Development Project 2 - *Genshin GeoGuessr*
+Website link: https://genshin-viewpoints-trivia.netlify.app/
 
 Submitted by: **Samiul Saimon**
 
