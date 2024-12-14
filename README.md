@@ -59,3 +59,67 @@ The project took much longer than expected because of my persistence in figuring
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+
+# Web Development Project 3 - *Genshin GeoGuessr*
+
+Submitted by: **Samiul Saimon**
+
+This web app: **Version 2.0 now allows you to input guesses, visibily see whether you're right or wrong, keep track of your score, current streak, and longest streak! In addition, you can move back and forth with cards, and shuffle for an all new new experience.**
+
+Time spent: **7** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+
+The following **optional** features are implemented:
+
+- [x] A shuffle button is used to randomize the order of the cards
+- [x] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [x] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
+
+The following **additional** features are implemented:
+
+* [x] Fixed infinite point glitch by pressing submit multiple times on a single card with the correct answer. Now you can only gain a maximum of 1 point per card.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![week3_small](https://github.com/user-attachments/assets/8293440f-2efc-41f5-b9c0-af93e2dc7850)
+Better GIF Quality: https://drive.google.com/drive/folders/184v2ecTTOOx4riQc6ns6YRW-RuCE-cZQ?usp=sharing 
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with Screen Recorder and Adobe Converter for large file. Ezgif to convert to smaller file size.   
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Was a bit unsure how to implement card tracking since my original approach randomized all the cards. Had another state variable to help with that and utilized a simple algorithm for shuffling. Also utilized modulo to handle moving back and forth with the cards. I also wanted to prevent users from clicking submit multiple times with a correct answer to just get infinite points essentially so I had to use a state variable to keep track of whether the user had submitted the correct answer already but not restrict them from trying again if they got it wrong. This also had to be reset per card. File size was big so gif is not great quality. Better gif quality in the drive. 
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
